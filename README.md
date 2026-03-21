@@ -37,14 +37,9 @@ I'm a 2nd Year Computer Science and Artificial Intelligence student at **Aberyst
 
 ## 🚀 Featured Projects
 
-### 📊 [Sports Data Pipeline](https://github.com/yosh-max-code/sports-data-pipeline)
-End-to-end data engineering pipeline ingesting, cleaning, and transforming sports data for model development. Built with Python, pandas, and SQL.
-
-### 🤖 [Sports Prediction ML](https://github.com/yosh-max-code/sports-prediction-ml)
-Machine learning system for predicting sporting outcomes with full test coverage. Includes feature engineering, model evaluation, and performance tracking.
-
-### ⚡ [Sports Prediction API](https://github.com/yosh-max-code/sports-prediction-api)
-FastAPI application serving real-time sports predictions. Production-ready with automated tests, data validation, and monitoring.
+### 📊 [Sports Data Pipeline](https://github.com/yosh-max-code/sports-ml-system)
+End-to-end data engineering pipeline ingesting, cleaning, and transforming sports data for model development. Built with Python, pandas, and SQL,
+An end-to-end machine learning system for predicting sporting outcomes — from raw data ingestion through to a live prediction API.
 
 ### 🔬 [LLM-Context-Mitigation-Analyzer](https://github.com/yosh-max-code/LLM-Context-Mitigation-Analyzer)
 Python tool comparing LLM performance across different input strategies — chunked context refresh vs. large batch processing.
