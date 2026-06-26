@@ -8,7 +8,7 @@
 
 ## 🎓 About Me
 
-I'm a 2nd Year Computer Science and Artificial Intelligence student at **Aberystwyth University**
+I'm a 3rd Year Computer Science and Artificial Intelligence student at **Aberystwyth University**
 
 - 🏆 Incoming Data Science Engineering Intern @ **DraftKings** (July 2026)
 - 🔭 Currently building: sports data pipelines and ML prediction systems
