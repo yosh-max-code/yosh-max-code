@@ -9,8 +9,7 @@ Incoming Data Science Intern · DraftKings, London · July 2026
 
 I build systems at the intersection of sports and machine learning — data pipelines, prediction models, and the infrastructure that ties them together. Currently focused on Python, SQL, and production-grade ML workflows ahead of my internship.
 
-Co-authored published research on LLM reasoning degradation at [Exponentia AI](https://www.exponentia.ai/blogs/llms-and-the-mirage-of-thinking-across-problem-complexity). Former National badminton player, England representative, nationally former top 15 Junior.
-
+Co-authored published research on LLM reasoning degradation at [Exponentia AI](https://www.exponentia.ai/blogs/llms-and-the-mirage-of-thinking-across-problem-complexity). England junior badminton representative, national top 15 U19.
 ---
 
 ## Personal Work
