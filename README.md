@@ -13,13 +13,10 @@ Co-authored published research on LLM reasoning degradation at [Exponentia AI](h
 
 ---
 
-## Work
+## Personal Work
 
 **[UFC Betting Engine](https://github.com/yosh-max-code)** *(in progress)*  
 End-to-end fight outcome prediction system built on historical UFC data. Covers fighter stat aggregation, feature engineering, and a model layer for predicting moneyline and method-of-victory markets.
-
-**[Sports ML System](https://github.com/yosh-max-code/sports-ml-system)**  
-End-to-end pipeline from raw sports data ingestion through to a live prediction API. Covers data cleaning, feature engineering, model training, and a FastAPI deployment layer.
 
 **[LLM Context Mitigation Analyzer](https://github.com/yosh-max-code/LLM-Context-Mitigation-Analyzer)**  
 Research tool benchmarking LLM performance across chunked vs. batch context strategies. Built as part of a [published paper](https://www.exponentia.ai/blogs/llms-and-the-mirage-of-thinking-across-problem-complexity) examining how problem complexity drives reasoning degradation in large language models.
