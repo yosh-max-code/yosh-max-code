@@ -1,7 +1,7 @@
 # Yash Singh
 
 Computer Science & AI · Aberystwyth University  
-Incoming Data Science Intern · DraftKings, London · July 2026
+Data Science Intern · DraftKings, London · July 2026
 
 ---
 
