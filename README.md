@@ -7,7 +7,7 @@ Data Science Intern · DraftKings, London · July 2026
 
 ## About me 
 
-I build systems at the intersection of sports and machine learning — data pipelines, prediction models, and the infrastructure that ties them together. Currently focused on Python, SQL, and production-grade ML workflows ahead of my internship.
+Third year uni student at Aberystwyth University currently interning at DraftKings. Working under the Trading Intelligence team.
 
 Co-authored published research on LLM reasoning degradation at [Exponentia AI](https://www.exponentia.ai/blogs/llms-and-the-mirage-of-thinking-across-problem-complexity). England junior badminton representative, national top 15 player in U19.
 
@@ -15,7 +15,7 @@ Co-authored published research on LLM reasoning degradation at [Exponentia AI](h
 
 ## Personal Work
 
-**[UFC Betting Engine](https://github.com/yosh-max-code)** *(in progress)*  
+**[UFC Betting Engine](https://github.com/yosh-max-code)**  
 End-to-end fight outcome prediction system built on historical UFC data. Covers fighter stat aggregation, feature engineering, and a model layer for predicting moneyline and method-of-victory markets.
 
 **[LLM Context Mitigation Analyzer](https://github.com/yosh-max-code/LLM-Context-Mitigation-Analyzer)**  
