@@ -1,15 +1,16 @@
 # Yash Singh
 
 Computer Science & AI · Aberystwyth University  
-Data Science Intern · DraftKings, London · July 2026
 
 ---
 
 ## About me 
 
-Third year uni student at Aberystwyth University currently interning at DraftKings. Working under the Trading Intelligence team.
+Third year uni student at Aberystwyth University 
 
 Co-authored published research on LLM reasoning degradation at [Exponentia AI](https://www.exponentia.ai/blogs/llms-and-the-mirage-of-thinking-across-problem-complexity). England junior badminton representative, national top 15 player in U19.
+
+Interned at DraftKings in Trading Intelligence looking at prediction market signalling.
 
 ---
 
